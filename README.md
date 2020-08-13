@@ -15,6 +15,9 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ### Latest Blogs 📓
 <!-- BLOG:START -->
+- [How to setup HTTPS locally with create-react-app](https://blog.ganeshagrawal.com/how-to-setup-https-locally-with-create-react-app-ckda9hprz00httss1d5yq2svl)
+- [How to use environment variables in Node.js application](https://blog.ganeshagrawal.com/how-to-use-environment-variables-in-nodejs-application-ckcyw21uz000a4qs15yyn4uhz)
+- [Hello World!](https://blog.ganeshagrawal.com/hello-world-ckcex0voq002t9as1cfbpe1vg)
 <!-- BLOG:END -->
 
 ---
