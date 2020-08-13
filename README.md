@@ -14,8 +14,8 @@ I write about things I am familiar with, things that trip up folks that I mentor
 💌 Sign up for my [newsletter](https://www.thelocalcoder.com)
 
 ### Latest Blogs 📓
-<!-- BLOGS:START -->
-<!-- BLOGS:END -->
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ---
 <p align='center'>
