@@ -13,7 +13,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://www.thelocalcoder.com)
 
-### Latest Blog 📓
+### Latest Blogs 📓
 <!-- BLOG-LIST:START -->
 <!-- BLOG_LIST:END -->
 
